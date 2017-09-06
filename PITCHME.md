@@ -37,6 +37,39 @@ MCA4_data
 
 - Make data available and citeable
 - Need metadata
+Metadata 
+
+Experimental setup 
+Detector geometry and area
+
+
+Phase 
+Pulse width and shape
+Chopper configuration
+Source type
+
+
+Date 
+
+Derived quantities 
+
+Raw and analyzed data 
+
+
+File type 
+Energy resolution 
+
+Calibration data
+Sample type 
+
+
+Digital object identifier 
+Investigator details, ORCID etc 
+
+
+
+--
+
 
 ---?image=assets/catanie.png&size=auto 90%
 
