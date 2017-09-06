@@ -1,6 +1,8 @@
 ### BrightnESS Data Management Plan
 Gareth Murphy
+
 ESS DMSC
+
 2017-09-14
 
 ---
