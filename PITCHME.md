@@ -36,5 +36,7 @@ MCA4_data
 ### Data Management Plan
 
 - Make data available and citeable
-- Need metadata 
+- Need metadata
+
+---?image=assets/catanie.png&size=auto 90%
 
