@@ -1,4 +1,4 @@
-### BrightnESS Data Management Plan
+### <span style="text-transform: none">BrightnESS</span> Data Management Plan
 Gareth Murphy
 
 ESS DMSC
