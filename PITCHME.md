@@ -37,9 +37,11 @@ MCA4_data
 
 - Make data available and citeable
 - Need metadata
-- eg. technical metadata  (experimental setup, detector geometry and area, phase
-Pulse width and shape, chopper configuration, source type,  derived quantities)
-if raw or analyzed data, Energy resolution, Calibration information, Sample type)
+- eg. technical metadata  (experimental setup, detector geometry
+and area, phase Pulse width and shape, chopper configuration,
+source type,  derived quantities, if raw or analyzed data,
+energy resolution, calibration information, sample type
+)
 - descriptive metadata (date, investigator details, ORCID etc)
 - administrative metadata (date, how created,
 Digital object identifier or other persistent ID,
@@ -47,14 +49,14 @@ File type
 )
 
 
-
-
-
-
-
-
-
 --
+
+
+
+
+
+
+
 
 
 ---?image=assets/catanie.png&size=auto 90%
