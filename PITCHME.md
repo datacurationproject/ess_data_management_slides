@@ -37,34 +37,20 @@ MCA4_data
 
 - Make data available and citeable
 - Need metadata
-Metadata 
-
-Experimental setup 
-Detector geometry and area
-
-
-Phase 
-Pulse width and shape
-Chopper configuration
-Source type
+- eg. technical metadata  (experimental setup, detector geometry and area, phase
+Pulse width and shape, chopper configuration, source type,  derived quantities)
+if raw or analyzed data, Energy resolution, Calibration information, Sample type)
+- descriptive metadata (date, investigator details, ORCID etc)
+- administrative metadata (date, how created,
+Digital object identifier or other persistent ID,
+File type
+)
 
 
-Date 
-
-Derived quantities 
-
-Raw and analyzed data 
 
 
-File type 
-Energy resolution 
-
-Calibration data
-Sample type 
 
 
-Digital object identifier 
-Investigator details, ORCID etc 
 
 
 
