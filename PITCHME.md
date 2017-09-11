@@ -9,7 +9,7 @@ ESS DMSC
 
 ### Current Data Storage
 
-- Data stored in files on nfs drive
+- Data stored in files on NFS server
 - Not accessible without username and password
 - Not searchable
 - Metadata in file/directory names
