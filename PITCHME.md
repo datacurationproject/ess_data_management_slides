@@ -10,7 +10,7 @@ ESS DMSC
 ### Current Data Storage
 
 - Data stored in files on NFS server
-- Not accessible without username and password
+- Not accessible without local username and password
 - Not searchable
 - Metadata in file/directory names
 - Not easy to automate processing/analysis
@@ -67,6 +67,6 @@ File type
 
 ---
 
-What metadata would you like to keep?
+What metadata would you like to have visible?
 
 What services should the data catalogue provide?
