@@ -10,6 +10,8 @@ ESS DMSC
 ### Current Data Storage
 
 - Data stored in files on nfs drive
+- Not accessible without username and password
+- Not searchable
 - Metadata in file/directory names
 
 
@@ -61,3 +63,9 @@ File type
 
 ---?image=assets/catanie.png&size=auto 90%
 
+
+---
+
+What metadata would you like to keep?
+
+What services should the data catalogue provide?
