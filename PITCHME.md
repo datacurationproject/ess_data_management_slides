@@ -13,6 +13,7 @@ ESS DMSC
 - Not accessible without username and password
 - Not searchable
 - Metadata in file/directory names
+- Not easy to automate processing/analysis
 
 
 ```
